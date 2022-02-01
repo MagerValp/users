@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/local/munkireport/munkireport-python2
 # Written for MunkiReport by tuxudo
 
 import subprocess
